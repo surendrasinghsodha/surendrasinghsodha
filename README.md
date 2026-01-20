@@ -83,7 +83,7 @@ MSc Computer Science @ University College Dublin, Ireland
  
 ---
 
-## Featured Projects
+## 📂 Featured Projects
 
 ### 🔹 Interactive XAI Platform
 **Python-based platform for explainable AI model interpretation**
