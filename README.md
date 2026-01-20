@@ -80,10 +80,9 @@ MSc Computer Science @ University College Dublin, Ireland
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons
-
-
+ 
 ---
+
 ## Featured Projects
 
 ### 🔹 Interactive XAI Platform
